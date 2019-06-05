@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FoxFire Master</string>
+    <string name="login">login</string>
+    <string name="user_password">User Password</string>
+    <string name="user_name">User Name</string>
+    <string name="desc">desc</string>
+    <string name="user_speed">User Speed:</string>
+    <string name="user_id">User ID:</string>
+    <string name="user_on_off">User On/Off</string>
+    <string name="user_geofencing">User Geofencing:</string>
+    <string name="users">Users</string>
+    <string name="location">Location:</string>
+    <string name="master_id">Master Id:</string>
+    <string name="engine_on_off">Engine On/Off</string>
+    <string name="log_out">Log out</string>
+</resources>
